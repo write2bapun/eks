@@ -16,12 +16,4 @@
 
 📚 - [Lessons](docs/contents.md)
 
-# Social
-
-🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
-💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
-🛠️ - [Twitter/X](https://x.com/antonvputra)  
-📨 - me@antonputra.com  
-
-
-LESSON - 195 check
+# https://github.com/write2bapun/eks/tree/main/lessons/195 ( EKS ) 
