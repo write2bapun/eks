@@ -22,3 +22,6 @@
 💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
 🛠️ - [Twitter/X](https://x.com/antonvputra)  
 📨 - me@antonputra.com  
+
+
+LESSON - 195 check
